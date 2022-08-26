@@ -1,0 +1,16 @@
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\bin\Debug\net5.0\insulter.exe
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\bin\Debug\net5.0\insulter.deps.json
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\bin\Debug\net5.0\insulter.runtimeconfig.json
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\bin\Debug\net5.0\insulter.runtimeconfig.dev.json
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\bin\Debug\net5.0\insulter.dll
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\bin\Debug\net5.0\insulter.pdb
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.csproj.AssemblyReference.cache
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.AssemblyInfoInputs.cache
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.AssemblyInfo.cs
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.csproj.CoreCompileInputs.cache
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.dll
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\refint\insulter.dll
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.pdb
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\insulter.genruntimeconfig.cache
+C:\Users\terro\workspace\translate-csharp-js\insulter\csharp\insulter\obj\Debug\net5.0\ref\insulter.dll
